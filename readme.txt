@@ -37,12 +37,12 @@ Project Structure
 
 ```
 test_automation_ui/
-│
-├── image_preview_test.py          # Main automation script
-├── sample.png                     # Sample test image
-├── execution_results.csv          # Output results file
-├── results/
-│   └── preview_pass.png           # Screenshot of successful execution
+
+ image_preview_test.py          # Main automation script
+ sample.png                     # Sample test image
+ execution_results.csv          # Output results file
+ results/
+      preview_pass.png           # Screenshot of successful execution
 ```
 
 ---
@@ -160,9 +160,7 @@ Submission Files
 
 ---
 
-Repository Link
-
-(Add your GitHub repository link here)
+Repository Link - https://github.com/Pirakash12/Test_Automation_UI.git
 
 ---
 
